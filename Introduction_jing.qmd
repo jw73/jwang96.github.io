@@ -1,0 +1,47 @@
+---
+title: "Introduction_Jing"
+author: "Jing Wang"
+format: revealjs
+editor: visual
+---
+
+## Biographical Information
+
+Date of birth: 11/10/1988
+
+Country: China
+
+Department: Civil and environmental engineering
+
+Program: Ph.D.
+
+Graduation date: 12/2024
+
+## Favorite Animal
+
+![My Favorite Animal](puppy.jpg)
+
+## Plot
+
+```{r}
+choc_cookie <- readr::read_csv('choc_chip_cookie_ingredients.csv')
+#library(skimr)
+#skim(choc_cookie)
+library(ggplot2)
+
+# Filter the data for "all purpose flour" ingredient
+flour <- choc_cookie[choc_cookie$Ingredient == "all purpose flour", ]
+
+# Create a scatter plot using ggplot2
+ggplot(data = flour, aes(x = 1:nrow(flour), y = Quantity)) +
+  geom_point() +
+  labs(
+    x = "Receipt Index",
+    y = "Quantity (cups)",
+    title = "Flour Distribution Based on Different Receipts"
+  ) 
+```
+
+## CV Link
+
+[My CV Link](https://github.com/jw73/jwang96.github.io/blob/main/CV.pdf "This is the link of my CV.")
