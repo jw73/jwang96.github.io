@@ -19,7 +19,7 @@ Graduation date: 12/2024
 
 ## Favorite Animal
 
-![My Favorite Animal](puppy.jpg)
+![My Favorite Animal (puppy)](puppy.jpg)
 
 ## Plot
 
