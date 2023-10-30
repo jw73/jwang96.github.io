@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+author: "Jing Wang"
+format: pptx
+editor: visual
+---
+
+## Myself
+
+BirthDate
+
+## Favorite Animal
+
+\![My favorite Animal\](puppy.jpg)
+
+## The Link to My CV
+
+```{r}
+1 + 1
+```

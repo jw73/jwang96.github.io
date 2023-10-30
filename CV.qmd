@@ -1,0 +1,146 @@
+---
+title: "Resume"
+author: "Jing Wang"
+format: pdf
+editor: visual
+---
+
+City Campus (Lincoln), WHIT 262M
+
+Prem S. Paul Research Center at Whittier School
+
+Phone: (814) 777-8396   Email: jwang96\@unl.edu
+
+## Academic Background
+
+**The University of Nebraska-Lincoln**
+
+Ph.D., Civil and Environmental Engineering
+
+Advisor: Dr. Nathan Huynh
+
+**The university of South Carolina**
+
+Ph.D., Civil and Environmental Engineering, December  2022
+
+Advisor: Dr. Nathan Huynh
+
+**The Pennsylvania State University**
+
+M.S., Industrial Engineering, December 2018
+
+Advisor: Ling Rothrock
+
+**The Shanghai Jiao Tong University**
+
+M.S., Aerospace Engineering, June 2015
+
+Advisor: Fuxin Wang
+
+**The Northwestern Polytechnical University**
+
+B.S., Aerospace Engineering, June 2012 
+
+## Publication 
+
+**Wang, Jing** and Nathan N. Huynh. "Enhancing Marine Container Terminal Efficiency and Sustainability: A Novel Truck Scheduling Method Using Waiting Lot", Prepared for Transportation Research Part D: Transport and Environment
+
+**Wang, Jing**, Gurcan Comert, Negash Begashaw, Nathan N. Huynh, Amara Kouyate, Robert Mullen , Sarah Gassman  and Charles Pierce. "A Comparative Analysis of Three Modeling Approaches for Predicting Pavement Conditions" under review by Transportation Research Record
+
+**Wang, Jing**, Ryan DeVine, Nathan N. Huynh, Weimin Jin, Gurcan Comert and Mashrur Chowdhury. " Comparison of Models with and without Roadway Features to Estimate Annual Average Daily Traffic at Non-Coverage Locations." Accepted by International Journal of Transportation Science and Technology
+
+**Wang, Jing**, Nathan N. Huynh, and Edsel Pena. "Land side truck traffic modeling at container terminals by a stationary two-class queuing strategy with switching." *Journal of International Logistics and Trade* 20.3 (2022): 118-134.
+
+Tan, Xiaomei, Yiqi Zhang, and **Jing Wang**. "Assessing the potential impacts of connected vehicle systems on driver's situation awareness and driving performance." *Transportation research part F: traffic psychology and behaviour* 84 (2022): 177-193.
+
+ **Wang, Jing**, W. Kong, F. Wang, and H. Liu, "Experiment about the influence of surface energy on the growth of icing in supercooled water," J. Shanghai Jiao Tong Univ., vol. 50, no. 4, pp. 588--594, 2016.
+
+**Wang, Jing** and Nathan N. Huynh " [A Novel Truck Scheduling Approach for Reducing Truck Turn Time at Container Terminals via Use of Waiting Lot](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DIRD8iGqtLcC&citation_for_view=DIRD8iGqtLcC:Y5dfb0dijaUC)" Transportation Research Board's 102nd Annual Meeting
+
+**Wang, Jing**, Ryan Devine, Nathan N. Huynh, Weimin Jin, Gurcan Comert and Mashrur Chowdhury. "Estimation of Annual Average Daily Traffic at Non-Coverage Locations", Transportation Research Board's 102nd Annual Meeting
+
+**Wang, Jing**, Nathan N. Huynh, and Edsel Pena " Analysis of a Stationary Two-Class Queuing Strategy with Switching for Marine Container Terminal Application " Transportation Research Board's 101nd Annual Meeting
+
+## **Research Experience**
+
+Graduate Research Assistant, University of South Carolina & University of Nebraska-Lincoln 2018 - current
+
+*SPR749: Estimating AADT on Non-Coverage Roads*
+
+-   Developed models to estimate annual average daily traffic (AADT) at non-coverage locations.
+
+-   Developed a user-friendly tool that implements the models.
+
+-   Improving SCDOT Project Delivery Through Identifying Potentially Suitable Locations
+
+    *SPR741: Mitigation and Standardizing Section 401/404 Permit Application Process*
+
+-   Review existing mitigation and conservation assessment models/tools used in the U.S. and use the gathered information to develop GIS-based applications that are implementable by the Environmental Services Office (ESO) to provide a sustainable statewide mitigation program.
+
+-   Review existing Section 404 permit application processes and tools used in the U.S. and use the gathered information to develop web-based, interactive applications that are implementable by ESO staff and consultants to streamline the submittal process for Section 404 permit applications submitted to the U.S. Army Corps of Engineers (USACE)
+
+*SPR 761: Streamlining Permitting and Mitigation Processes to Improve SCDOT Project Delivery*
+
+-   Using ArcGIS Survey123connect and related softwares ( e.g., Power Automate) to develop 6 apps (e.g., General Permit,  Jurisdictional Determination, Pre-Letting Checklist, Project Tracking, Commitment Log, and Inspection forms)
+
+-   Developing the dashboard for the compliance forms.
+
+*Development, Assessment and Simulation of Enabling Fuels for Naval Decarbonization*
+
+-   Review existing ship routing and scheduling related papers and other related papers.
+
+-   Building the mathematical model to determine the location of on-shore/off-shore stations.
+
+-   Implementing solution algorithm to solve this mathematical model.
+
+Graduate Research Assistant, Pennsylvania State University 2015-2018
+
+*Degraded Human Cognitive Skills with Automated Cognitive Aids: A study on the Influence of Connected Vehicle Systems on Drivers' Situation Awareness*
+
+-   Designed the driving simulator to investigate the effects of multiple warning parameters (warning reliability, warning timing) on driver behavior and situation awareness.
+
+-   Finished the coding of the design of the experiment with the STISIM simulator.
+
+*The Identification of AV Driving Styles Indicators in Human-AV Interaction and HV-AV Interaction*
+
+-   Assisted with the experimental design including the selection of the related parameter and the specific events.
+
+-   Assisted with the coding of the experiment with STISIM simulator.
+
+Graduate Research Assistant, Shanghai Jiao Tong University 2012-2015
+
+*Designed and manufactured the test stand to realize the experiment about the impact of substrate on ice growth*.
+
+-   Used Matlab and C to analyze the influence of thermal diffusivity and contact angle on ice growth through both the theory and experiments.
+
+## Skills
+
+**Advanced:** VB, Excel, Lindo/Solver, Matlab, Python, R
+
+**Intermediate:** SQL, UG, CATIA, SIMIO
+
+**Familiar**: SPSS, AutoCAD
+
+**Technical Skills :**Data Analytics/Visualization, Forecasting, Optimization, Simulation, Predictive Modeling, Statistical Analysis
+
+## Honor and awards  
+
++--------------------------------------------------------------------------------------------+-----+-------------+
+|                                                                                            |     |             |
++--------------------------------------------------------------------------------------------+-----+-------------+
+| • Merit Student of Northwestern Polytechnical University (NPU)(3 times)                    |     | 2009-2011   |
++--------------------------------------------------------------------------------------------+-----+-------------+
+|                                                                                            |     |             |
++--------------------------------------------------------------------------------------------+-----+-------------+
+| • 1st Class Outstanding Scholarship of NPU (3 times)                                       |     | 2009-2011   |
++--------------------------------------------------------------------------------------------+-----+-------------+
+|                                                                                            |     |             |
++--------------------------------------------------------------------------------------------+-----+-------------+
+| • 2nd Class Outstanding Scholarship of Shanghai Jiao Tong University (SJTU)(2 times)       |     | 2012-2013   |
++--------------------------------------------------------------------------------------------+-----+-------------+
+|                                                                                            |     |             |
++--------------------------------------------------------------------------------------------+-----+-------------+
+| •  M. Bert Storey Endowed Graduate Fellowship                                              |     | 2020-2022   |
++--------------------------------------------------------------------------------------------+-----+-------------+
+|                                                                                            |     |             |
++--------------------------------------------------------------------------------------------+-----+-------------+
