@@ -47,6 +47,4 @@ ggplot(data = flour, aes(x = 1:nrow(flour), y = Quantity)) +
 
 ## CV Link
 
-```         
-[CV Link](CV.pdf)
-```
+[My CV Link](https://github.com/jw73/jwang96.github.io/blob/main/CV.pdf "This is the link of my CV.")
